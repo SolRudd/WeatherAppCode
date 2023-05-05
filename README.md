@@ -15,3 +15,10 @@ In this app, the user can:
 - HTML
 - TAILWINDCSS
 - JavaScript
+
+
+
+![WeatherApp](https://user-images.githubusercontent.com/125647977/236569043-8109df84-7730-4d79-a25f-2bcdec141c5f.png)
+
+
+![WeatherAppUsed](https://user-images.githubusercontent.com/125647977/236569116-cd7c08de-8d3c-44fb-b69a-7ef42fb1317b.png)
