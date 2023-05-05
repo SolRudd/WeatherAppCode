@@ -13,5 +13,5 @@ In this app, the user can:
 ### Technologies used:
 - OpenWeatherMap API
 - HTML
-- CSS
+- TAILWINDCSS
 - JavaScript
